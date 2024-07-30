@@ -1,1 +1,1 @@
-# CElEBAL-Document-Clustering-for-Topic-Modeling
+# CELEBAL-Document-Clustering-for-Topic-Modeling
